@@ -16,7 +16,7 @@ In this lesson, we'll be setting up a blog admin panel so that `Post` objects ca
 
 # The Models
 
-First, we'll set up associated models, just like in the preceding lesson:
+First, we'll set up associated models, just like in the preceding lesson: 
 
 ```ruby
 # app/models/post.rb
